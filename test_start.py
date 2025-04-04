@@ -354,7 +354,7 @@ def virtual_dressing():
                 category = position,
                 is_checked = True,
                 is_checked_crop = True,
-                denoise_steps = 32,
+                denoise_steps = 50,
                 seed = 42)
 
     res_image_base64 = image_to_base64(res_image)
