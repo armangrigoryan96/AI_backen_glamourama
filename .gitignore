@@ -1,0 +1,15 @@
+ckpt
+**/__pycache__/
+engine/TestSample
+engine/app
+engine/data
+data
+base/*
+body_parts.json
+front.png
+side.png
+.DS_Store
+body_parts.json
+crop.py
+venv/
+tryon_dress/test.py
