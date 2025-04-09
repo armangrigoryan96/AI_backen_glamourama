@@ -4,7 +4,7 @@ engine/TestSample
 engine/app
 engine/data
 data
-base/*
+#base/*
 body_parts.json
 front.png
 side.png
